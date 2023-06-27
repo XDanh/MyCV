@@ -2,7 +2,7 @@
 import Head from 'next/head'
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { ReactNode } from 'react';
-import NavbarMenu from '@/pages/components/NavbarMenu'
+import NavbarMenu from './NavbarMenu'
 
   type MyComponentProps = {
     children: ReactNode;
