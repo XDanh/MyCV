@@ -10,7 +10,7 @@ const MyComponent = () => {
         <Col xs="3" style={{ backgroundColor:'hsl(0 100% 0%)', padding: '0px'}}>
             <div style={{ backgroundColor:'#424949',textAlign: 'center',aspectRatio:'1/1',display:'flex',flexWrap:'wrap',alignContent:'center',justifyContent:'center'
         }}>
-                <Image src="/png-transparent-man-illustration-avatar-icon-fashion-men-avatar-face-fashion-girl-heroes-thumbnail.png" roundedCircle width={'50%'} height={'50%'}/>
+                <Image src="/355806868_991900578914502_6851284693763920757_n.png" roundedCircle width={'50%'} height={'50%'} className='bg-light'/>
                 <p className='text-light' style={{ fontSize:'1.5rem' }}>Nguyễn Xuân Danh</p>
             </div>
             <div className='bg-secondary start-0 p-2' > 
