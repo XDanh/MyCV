@@ -43,19 +43,19 @@ const MyComponent = () => {
                 <h5 className='text-light mt-3' style={{ fontSize:'17px' }}>KỸ NĂNG</h5>
                 <div className='text-light'>Nextjs</div>
                 <div className="progress">
-                  <div className="progress-bar bg-success" style={{ width:'50%' }}></div>
+                  <div className="progress-bar bg-info" style={{ width:'50%' }}></div>
                 </div>
                 <div className='text-light'>Laravel</div>
                 <div className="progress">
-                  <div className="progress-bar bg-success" style={{ width:'100%' }}></div>
+                  <div className="progress-bar bg-info" style={{ width:'100%' }}></div>
                 </div>
                 <div className='text-light'>English</div>
                 <div className="progress">
-                  <div className="progress-bar bg-success" style={{ width:'20%' }}></div>
+                  <div className="progress-bar bg-info" style={{ width:'20%' }}></div>
                 </div>
                 <div className='text-light'>Microsoft Office</div>
                 <div className="progress">
-                  <div className="progress-bar bg-success" style={{ width:'100%' }}></div>
+                  <div className="progress-bar bg-info" style={{ width:'100%' }}></div>
                 </div>
                 <h5 className='text-light mt-3' style={{ fontSize:'17px' }}>SỞ THÍCH</h5>
                 <div className='text-light'>Chơi game</div>
